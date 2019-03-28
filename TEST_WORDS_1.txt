@@ -1,0 +1,31 @@
+apple file edit format view help open close pineapple harry potter the meaning of life and everything else bacon pig cow dog cat albatros alfa romeo bmw opel renaut ask
+bookstore library university fmi programing
+These classes are derived directly or indirectly from the classes istream and ostream 
+we have already used objects whose types were these classes cin is an object of class istream and cout is an object of class ostream 
+therefore we have already been using classes that are related to our file streams 
+and in fact we can use our file streams the same way we are already used to use cin and cout
+with the only difference that we have to associate these streams with physical files Let us see an example
+some of our Services allow you to upload submit store send or receive content you retain ownership of any intellectual property rights that you hold in that content 
+in short what belongs to you stays yours
+
+when you upload submit store send or receive content to or through our services you give google and those we work with a worldwide license to use host store reproduce modify 
+create derivative works such as those resulting from translations adaptations or other changes we make so that your content works better with our services 
+communicate publish publicly perform publicly display and distribute such content 
+the rights you grant in this license are for the limited purpose of operating promoting and improving our services and to develop new ones
+this license continues even if you stop using our services for example for a business listing you have added to google maps some services may offer you ways to access 
+and remove content that has been provided to that service 
+also in some of our services there are terms or settings that narrow the scope of our use of the content submitted in those services
+Make sure you have the necessary rights to grant us this license for any content that you submit to our services
+
+uur automated systems analyze your content including emails to provide you personally relevant product features
+such as customized search results tailored advertising and spam and malware detection 
+this analysis occurs as the content is sent received and when it is stored
+
+if you have a google account we may display your profile name profile photo and actions you take on google or on third party applications connected to your 
+google account such as  reviews you write and comments you post in our services
+including displaying in ads and other commercial contexts
+we will respect the choices you make to limit sharing or visibility settings in your google account
+for example you can choose your settings so your name and photo do not appear in an ad
+
+you can find more information about how google uses and stores content in the privacy policy or additional terms for particular Services
+if you submit feedback or suggestions about our services we may use your feedback or suggestions without obligation to you
